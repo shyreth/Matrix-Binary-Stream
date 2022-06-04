@@ -7,7 +7,7 @@ import time
 
 MIN_STREAM_LENGTH = 6
 MAX_STREAM_LENGTH = 14
-PAUSE = 0.1
+PAUSE = 0.05
 STREAM_CHARS = ['0', '1']
 DENSITY = 0.10
 WIDTH = shutil.get_terminal_size()[0]
